@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Task TaskName="tintin" Desc="tintin" TaskID="d814fbe39df2400bb3371f98875a32b6" Path="tintin.XML">
+  <Step StepId="1" stepSeq="1" ActionId="66bb4a26a15748da955fbf464045b669" ActionName="Sleep" QClass="com.webdriverfw.Wrappers.General" isCommented="False" IsSkipped="false" ObjectId="" ObjectName="" ObjectTypeId="">
+    <Param Name="&quot;3&quot;" ParamSeq="1" Parameterized="0" Data="3">
+    </Param>
+  </Step>
+</Task>

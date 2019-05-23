@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="317414a797cd4a20af37a283042da7a2" ManualTCId="tintin" TCName="tintin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WF>
+    <Task Name="tintin" Desc="tintin" TaskSeq="1" ID="d814fbe39df2400bb3371f98875a32b6" UpdateTS="5/23/2019 1:07:32 PM" FileName="tintin.XML" IsSystemTask="False" OnError="Continue" isCommented="False">
+    </Task>
+  </WF>
+  <Data>
+    <TCDataSet Iteration="1" Mark="True" TCDataSetTag="">
+    </TCDataSet>
+  </Data>
+</TC>
